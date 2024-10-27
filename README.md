@@ -31,14 +31,7 @@ Para configurar este chatbot, certifique-se de ter os seguintes requisitos:
 2. No LANDBOT.IO, configure um webhook para enviar a pergunta do usuário para a API da OpenAI.
 3. Receba a resposta do webhook e exiba-a para o usuário no chatbot.
 
-### **3. Formatação das Mensagens**
 
-Use a formatação a seguir para mensagens exibidas pelo chatbot:
-
-- **Título**: Utilize `*` para negrito, por exemplo, `*Informação do Produto*`.
-- **Links**: Para fornecer links úteis, formate como `[nome do link](URL)`.
-- **Listas**: Use `-` para listas não ordenadas e `1.` para listas ordenadas.
-- **Negrito e Itálico**: Combine `*` e `_` para formatação combinada.
 
 ## 🚀 **Deploy**
 
@@ -68,6 +61,9 @@ Contribuições são bem-vindas! Se desejar colaborar, siga estas etapas:
 
 Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais informações.
 
-## 📞 **Contato**
-
-Para dúvidas ou sugestões, entre em contato através de: [seuemail@exemplo.com](mailto:seuemail@exemplo.com).
+## 📄 **Alunos**
+Italo Cubas Barros
+Daniel
+Igor
+Gabriel
+Lucas
