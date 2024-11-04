@@ -62,8 +62,9 @@ Contribuições são bem-vindas! Se desejar colaborar, siga estas etapas:
 Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais informações.
 
 ## 📄 **Alunos**
-Italo Cubas Barros
-Daniel
-Igor
-Gabriel
-Lucas
+1. Daniel Félix Romagnoli
+2. Gabriel Nunes Coelho
+3. Igor César Pinheiro da Silva
+4. Italo Cubas Barros
+5. Lucas Gregianin
+
